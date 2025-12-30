@@ -20,7 +20,7 @@ export const siteConfig = {
   // When enabled, body and bust images will show a steve skin
   bedrock: {
     enabled: true,
-    prefix: "BP_",
+    prefix: ".",
   },
   openGraph: {
     dateFormat: "yyyy-MM-dd hh:mm:ss",
