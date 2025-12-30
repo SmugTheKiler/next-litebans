@@ -1,5 +1,5 @@
 export const siteConfig = {
-  title: "Next Litebans",
+  title: "Plex SMP",
   logo: "/logo.webp",
   favicon: "/logo.webp",
   languages: {
@@ -28,7 +28,7 @@ export const siteConfig = {
       main: {
         // Placeholders: {total}, {bans}, {mutes}, {kicks}, {warns}
         description: `
-        next-litebans punishment web interface.
+        Punishment log of Plex SMP.
 
         Total punishments: {total}
 
