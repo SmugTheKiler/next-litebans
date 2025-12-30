@@ -4,7 +4,7 @@ const language = {
     lang_name: "English"
   },
   site: {
-    description: "A simple and lightweight Litebans web interface."
+    description: "Allows everyone to see the punishment history of the entire server!"
   },
   words: {
     bans: {
@@ -37,7 +37,7 @@ const language = {
     home: {
       title: "Home",
       // Placeholders: {total}, {bans}, {mutes}, {kicks}, {warns}
-      subtitle: "Welcome to Litebans Web Interface!"
+      subtitle: "Welcome to our servers punishment interface!"
     },
     history: {
       title: "History",
